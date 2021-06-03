@@ -2,4 +2,4 @@
 - 👀 I’m interested in Machine learning and AI
 - 🌱 I’m currently learning more about LTSM's and their implementation + application
 - 💞️ I’m looking to collaborate on fun AI related projects
-- 📫 How to reach me: email me @caymencarter
+- 📫 How to reach me: caymencarter@gmail.com
